@@ -4,11 +4,13 @@
     margin: 0;
 }
 
+/* background coloring for the entire page */
 body {
     background-color: #d9dcd6;
 }
 
 
+/* header styling */ 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-
+/*styling for the hero image on the webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -99,7 +101,7 @@ p {
 }
 
 
-/* sidebar css */ 
+/* sidebar css styling */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
